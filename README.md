@@ -36,7 +36,7 @@ Click on any topic to view the problems and their solutions:
 
 ## Note to Self!
 
-This is a marathon, not a sprint. If I stick to this for a few months, I’ll not only crack interviews but also master core programming principles in Go.
+This is a marathon, not a sprint.
 
 ---
 
