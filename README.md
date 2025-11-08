@@ -3,10 +3,6 @@
 Welcome to my journey of mastering **Data Structures and Algorithms in Go (Golang)**!  
 I'm following the famous [Striver A2Z DSA Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/) and solving every problem in Go — documenting it all right here in this repo.
 
-> 🌱 Goal: Solve and commit **at least 1 problem per day**.  
-> ✅ Language: Go (Golang)  
-> 📅 Streak: ![GitHub Streak](https://streak-stats.demolab.com?user=yash27007&theme=default&hide_border=true)
-
 ---
 
 ## 📚 Topics Covered (Striver A2Z DSA Sheet)
